@@ -41,6 +41,8 @@ A simple web-based application for managing tourist packages, bookings, user pro
 ### 🏠 Front Page
 
 ![Front Page](Screen%20Shots/1_Front%20Page%20of%20Air-Travels_Tourist-Management-System.png)
+![Admin Page](Screen%20Shots/2_Admin Page of Air-Travels_Tourist-Management-System.png)
+
 
 > The screenshot is located in the `Screen Shots` folder. Note: use `%20` to represent spaces in image paths.
 
