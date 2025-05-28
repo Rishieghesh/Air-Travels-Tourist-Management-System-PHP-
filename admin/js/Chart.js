@@ -1,12 +1,4 @@
-/*!
- * Chart.js
- * http://chartjs.org/
- * Version: 1.0.2
- *
- * Copyright 2015 Nick Downie
- * Released under the MIT license
- * https://github.com/nnnick/Chart.js/blob/master/LICENSE.md
- */
+
 (function(){
 
 	"use strict";
@@ -459,7 +451,7 @@
 		/* jshint ignore:start */
 		// Blows up jshint errors based on the new Function constructor
 		//Templating methods
-		//Javascript micro templating by John Resig - source at http://ejohn.org/blog/javascript-micro-templating/
+		
 		template = helpers.template = function(templateString, valuesObject){
 
 			// If templateString is function rather than string-template - call the function for valuesObject
@@ -1754,9 +1746,7 @@
 		setScaleSize: function(){
 			/*
 			 * Right, this is really confusing and there is a lot of maths going on here
-			 * The gist of the problem is here: https://gist.github.com/nnnick/696cc9c55f4b0beb8fe9
-			 *
-			 * Reaction: https://dl.dropboxusercontent.com/u/34601363/toomuchscience.gif
+
 			 *
 			 * Solution:
 			 *
@@ -1777,7 +1767,7 @@
 			 * This will mean we have a shape fitted to the canvas, as large as it can be with the labels
 			 * and position it in the most space efficient manner
 			 *
-			 * https://dl.dropboxusercontent.com/u/34601363/yeahscience.gif
+
 			 */
 
 
