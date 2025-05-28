@@ -38,10 +38,17 @@ A simple web-based application for managing tourist packages, bookings, user pro
 
 ## 📸 Screenshot
 
-### 🏠 Front Page
-
+### 1. Front Page
 ![Front Page](Screen%20Shots/1_Front%20Page%20of%20Air-Travels_Tourist-Management-System.png)
-![Admin Page](Screen%20Shots/2_Admin Page of Air-Travels_Tourist-Management-System.png)
+
+### 2. Admin Page
+![Admin Page](Screen%20Shots/2_Admin%20Page%20of%20Air-Travels_Tourist-Management-System.png)
+
+### 3. Package Customization Page
+![Package Customization](Screen%20Shots/3_Package%20Customization%20of%20Air-Travels_Tourist-Management-System.png)
+
+### 4. User Page
+![User Page](Screen%20Shots/4_User_Page%20Air-Travels_Tourist-Management-System.png)
 
 
 > The screenshot is located in the `Screen Shots` folder. Note: use `%20` to represent spaces in image paths.
